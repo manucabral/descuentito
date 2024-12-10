@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const staticMetadata: Metadata = {
-  title: "Descuentito",
+  title: "Descuentitos",
   description: "Información sobre descuentos y promociones en supermercados.",
   icons: [
     {
